@@ -1,0 +1,8 @@
+cards.json
+env/
+__pycache__/
+
+data/
+
+
+*.ui
